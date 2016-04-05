@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<team>
+    <soccer>
+        <age>30</age>
+        <club>AC米兰</club>
+        <country>brazil</country>
+        <name>kaka2</name>
+        <sex>BOY</sex>
+    </soccer>
+    <soccer>
+        <age>29</age>
+        <club>巴塞罗那</club>
+        <country>阿根廷</country>
+        <name>messi</name>
+        <sex>GIRL</sex>
+        <simpledes>梅西是位超级球星ffffff</simpledes>
+        <sonList>son1</sonList>
+        <sonList>son2</sonList>
+    </soccer>
+</team>
