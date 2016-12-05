@@ -22,6 +22,7 @@ import org.apache.commons.math3.stat.descriptive.summary.SumOfSquares;
  * 三：概率与统计1.Distribution(分布)，2.fraction and complex(分数和复数)，3.random and statistics(随机生成和统计初步)，4.cluster and regression(聚类和回归) 
  */
 public class MathUtil {
+	
 	public void dealDouble(){
 		double[][] matrixData={{1d,2d,3d},{2d,5d,3d}};
 		RealMatrix m=new Array2DRowRealMatrix(matrixData);
