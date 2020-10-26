@@ -9,8 +9,8 @@ import java.io.InputStreamReader;
  */
 public class CmdUtil {
 	public static void main(String[] args) {
-		//CmdUtil.CMD("ipconfig");
-		CmdUtil.CMD("java -version");
+		CmdUtil.CMD("ipconfig");
+		//CmdUtil.CMD("java -version");
 	}
 	public static Process CMD(String cmd){
         Process p = null;
